@@ -1,0 +1,25 @@
+{
+  "name": "task-management-assistant",
+  "description": "A plugin that helps users organize, prioritize, and track tasks efficiently using AI.",
+  "version": "1.0.0",
+  "author": "Andrea Tovar",
+  "inputs": [
+    {
+      "name": "task_list",
+      "type": "array",
+      "description": "List of tasks to organize"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "organized_tasks",
+      "type": "array",
+      "description": "Tasks organized by priority and status"
+    }
+  ],
+  "capabilities": [
+    "task prioritization",
+    "task tracking",
+    "workflow organization"
+  ]
+}
