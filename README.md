@@ -1,5 +1,4 @@
-# cowork-ai-plugin
-Project management and implementation of an AI plugin for the Cowork ecosystem.
+
 # Cowork AI Plugin – Task Management Assistant
 
 ## 📌 Overview
